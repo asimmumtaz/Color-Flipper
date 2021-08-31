@@ -1,0 +1,17 @@
+.mainCotainer {
+  background-color: white;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73ad21;
+  padding: 10px;
+}
+
+.mainCotainer--heading {
+  text-align: center;
+}
+h1 {
+  color: black;
+}
+button {
+  margin: auto;
+}
